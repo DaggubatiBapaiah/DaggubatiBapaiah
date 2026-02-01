@@ -9,7 +9,7 @@
 
 🎓 Early undergraduate **Dual Degree Student**  
 💻 Computer Science @ **BITS Pilani**  
-⚡ Electronic Systems @ **IIT Madras**  
+⚡ Electronic Systems @ **IIT Madras**  (hybrid)
 🚀 Passionate about **systems, software, and real-world problem solving**
 
 ---
